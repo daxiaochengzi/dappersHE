@@ -411,7 +411,7 @@ namespace DapperTast.Controllers
             System.Net.WebClient myWebClient = new System.Net.WebClient();
                 myWebClient.DownloadFile(@"/192.168.101.109/software/01279.lic.txt", "testdownload.txt");
             Directory.Delete(urlFile, true);
-            System.IO.Directory.CreateDirectory(urlFile);
+            Directory.CreateDirectory(urlFile);
             if (urlList.Any())
             {
                 foreach (var item in urlList)

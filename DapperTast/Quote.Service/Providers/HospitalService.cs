@@ -97,7 +97,7 @@ namespace Quote.Service.Providers
                         }
 
                         string strXmlResult = null;
-                        if (name == "get_his_outpatient_list"|| name== "hospital_prepay_query")
+                        if (name == "get_his_outpatient_list")
                         {
                             strXmlResult = num > 0 ? "[" + strXml + "]" : strXml;
                         }
