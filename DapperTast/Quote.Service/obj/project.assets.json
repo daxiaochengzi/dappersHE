@@ -5416,11 +5416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\dappersHE\\dappersHE\\dappersHE\\dappersHE\\dappers\\DapperTast\\Quote.Service\\Quote.Service.csproj",
+      "projectUniqueName": "C:\\code\\git\\dappersHE\\DapperTast\\Quote.Service\\Quote.Service.csproj",
       "projectName": "Quote.Service",
-      "projectPath": "C:\\code\\dappersHE\\dappersHE\\dappersHE\\dappersHE\\dappers\\DapperTast\\Quote.Service\\Quote.Service.csproj",
+      "projectPath": "C:\\code\\git\\dappersHE\\DapperTast\\Quote.Service\\Quote.Service.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\dappersHE\\dappersHE\\dappersHE\\dappersHE\\dappers\\DapperTast\\Quote.Service\\obj\\",
+      "outputPath": "C:\\code\\git\\dappersHE\\DapperTast\\Quote.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

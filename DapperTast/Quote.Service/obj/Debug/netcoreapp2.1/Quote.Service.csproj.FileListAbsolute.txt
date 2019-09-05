@@ -49,3 +49,12 @@ C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\obj\Debug
 C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\obj\Debug\netcoreapp2.1\Quote.Service.AssemblyInfo.cs
 C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\obj\Debug\netcoreapp2.1\Quote.Service.dll
 C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\obj\Debug\netcoreapp2.1\Quote.Service.pdb
+C:\code\git\dappersHE\DapperTast\Quote.Service\bin\Debug\netcoreapp2.1\Quote.Service.deps.json
+C:\code\git\dappersHE\DapperTast\Quote.Service\bin\Debug\netcoreapp2.1\Quote.Service.dll
+C:\code\git\dappersHE\DapperTast\Quote.Service\bin\Debug\netcoreapp2.1\Quote.Service.pdb
+C:\code\git\dappersHE\DapperTast\Quote.Service\obj\Debug\netcoreapp2.1\Quote.Service.csprojAssemblyReference.cache
+C:\code\git\dappersHE\DapperTast\Quote.Service\obj\Debug\netcoreapp2.1\Quote.Service.csproj.CoreCompileInputs.cache
+C:\code\git\dappersHE\DapperTast\Quote.Service\obj\Debug\netcoreapp2.1\Quote.Service.AssemblyInfoInputs.cache
+C:\code\git\dappersHE\DapperTast\Quote.Service\obj\Debug\netcoreapp2.1\Quote.Service.AssemblyInfo.cs
+C:\code\git\dappersHE\DapperTast\Quote.Service\obj\Debug\netcoreapp2.1\Quote.Service.dll
+C:\code\git\dappersHE\DapperTast\Quote.Service\obj\Debug\netcoreapp2.1\Quote.Service.pdb

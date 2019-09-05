@@ -97,7 +97,7 @@ namespace Quote.Service.Providers
                         }
 
                         string strXmlResult = null;
-                        if (name == "get_his_outpatient_list")
+                        if (name == "get_his_outpatient_list"|| name== "hospital_prepay_query")
                         {
                             strXmlResult = num > 0 ? "[" + strXml + "]" : strXml;
                         }
@@ -105,9 +105,9 @@ namespace Quote.Service.Providers
                         {
                             strXmlResult = num > 1 ? "[" + strXml + "]" : strXml;
                         }
-
                         string strNew = strXmlResult.Replace("[\"\",\"\"]", "[]");
-                        result = JsonConvert.DeserializeObject(strNew);
+                        string strNews = strNew.Replace("},\"\"]", "}]");
+                        result = JsonConvert.DeserializeObject(strNews);
                     }
                 }
 

@@ -178,7 +178,7 @@ namespace Quote.AspNetCore
             {
                 Is_msg = "Msg:" + e.Message.ToString() + "; StackTrace:" + e.StackTrace.ToString();
                 jsonResultEntry.Code = "1010";
-                jsonResultEntry.AddErrorMessage("系统错误:" + (e.InnerException == null ? e.Message : e.InnerException.InnerException == null ? e.InnerException.Message : e.InnerException.InnerException.Message), e);
+                jsonResultEntry.AddErrorMessage("温馨提示:" + (e.InnerException == null ? e.Message : e.InnerException.InnerException == null ? e.InnerException.Message : e.InnerException.InnerException.Message), e);
             }
             if (!string.IsNullOrWhiteSpace(Is_msg))
             {

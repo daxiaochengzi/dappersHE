@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\dappersHE\\dappersHE\\dappersHE\\dappersHE\\dappers\\DapperTast\\Quote.Core\\Quote.Core.csproj",
+      "projectUniqueName": "C:\\code\\git\\dappersHE\\DapperTast\\Quote.Core\\Quote.Core.csproj",
       "projectName": "Quote.Core",
-      "projectPath": "C:\\code\\dappersHE\\dappersHE\\dappersHE\\dappersHE\\dappers\\DapperTast\\Quote.Core\\Quote.Core.csproj",
+      "projectPath": "C:\\code\\git\\dappersHE\\DapperTast\\Quote.Core\\Quote.Core.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\dappersHE\\dappersHE\\dappersHE\\dappersHE\\dappers\\DapperTast\\Quote.Core\\obj\\",
+      "outputPath": "C:\\code\\git\\dappersHE\\DapperTast\\Quote.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

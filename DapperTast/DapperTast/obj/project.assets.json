@@ -12997,11 +12997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\dappersHE\\dappersHE\\dappersHE\\dappersHE\\dappers\\DapperTast\\DapperTast\\DapperTast.csproj",
+      "projectUniqueName": "C:\\code\\git\\dappersHE\\DapperTast\\DapperTast\\DapperTast.csproj",
       "projectName": "DapperTast",
-      "projectPath": "C:\\code\\dappersHE\\dappersHE\\dappersHE\\dappersHE\\dappers\\DapperTast\\DapperTast\\DapperTast.csproj",
+      "projectPath": "C:\\code\\git\\dappersHE\\DapperTast\\DapperTast\\DapperTast.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\dappersHE\\dappersHE\\dappersHE\\dappersHE\\dappers\\DapperTast\\DapperTast\\obj\\",
+      "outputPath": "C:\\code\\git\\dappersHE\\DapperTast\\DapperTast\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13020,11 +13020,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\code\\dappersHE\\dappersHE\\dappersHE\\dappersHE\\dappers\\DapperTast\\Quote.AspNetCore\\Quote.AspNetCore.csproj": {
-              "projectPath": "C:\\code\\dappersHE\\dappersHE\\dappersHE\\dappersHE\\dappers\\DapperTast\\Quote.AspNetCore\\Quote.AspNetCore.csproj"
+            "C:\\code\\git\\dappersHE\\DapperTast\\Quote.AspNetCore\\Quote.AspNetCore.csproj": {
+              "projectPath": "C:\\code\\git\\dappersHE\\DapperTast\\Quote.AspNetCore\\Quote.AspNetCore.csproj"
             },
-            "C:\\code\\dappersHE\\dappersHE\\dappersHE\\dappersHE\\dappers\\DapperTast\\Quote.Service\\Quote.Service.csproj": {
-              "projectPath": "C:\\code\\dappersHE\\dappersHE\\dappersHE\\dappersHE\\dappers\\DapperTast\\Quote.Service\\Quote.Service.csproj"
+            "C:\\code\\git\\dappersHE\\DapperTast\\Quote.Service\\Quote.Service.csproj": {
+              "projectPath": "C:\\code\\git\\dappersHE\\DapperTast\\Quote.Service\\Quote.Service.csproj"
             }
           }
         }
