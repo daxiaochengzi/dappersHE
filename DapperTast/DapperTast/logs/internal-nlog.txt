@@ -1,0 +1,486 @@
+【2018/12/18 13:12:28】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 13:53:28】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:10:17】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:12:26】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:18:04】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:19:43】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:20:37】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:31:20】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:37:02】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:37:30】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:39:19】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:39:46】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:42:13】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:43:27】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:50:30】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:51:02】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:51:56】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:56:23】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 14:56:34】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 15:55:16】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 16:09:28】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 16:09:55】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 16:11:46】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 16:12:36】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 16:13:33】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 16:15:05】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 25
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 16:44:57】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 26
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 17:06:19】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 26
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2018/12/18 17:06:49】Message:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at DapperTast.Controllers.ValuesController.<>c__DisplayClass0_0.<PageList>b__0(ApiJsonResultData y) in E:\netcore\dapper\DapperTast\DapperTast\Controllers\ValuesController.cs:line 26
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTry(ApiJsonResultData jsonResultEntry, Action`1 runMethod) in E:\netcore\dapper\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 162
+【2019/7/28 星期日 上午 12:22:41】Msg:库存不足: 商品编号:12323, 当前库存,现登记例出数!; StackTrace:   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersNew\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 37
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersNew\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 36
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersNew\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 231
+【2019/7/28 星期日 下午 3:30:24】Msg:库存不足: 商品编号:12323, 当前库存,现登记例出数!; StackTrace:   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 37
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 36
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 231
+【2019/7/28 星期日 下午 3:31:07】Msg:库存不足: 商品编号:12323, 当前库存,现登记例出数!; StackTrace:   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 37
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 36
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 231
+【2019/7/28 星期日 下午 3:34:24】Msg:库存不足: 商品编号:12323, 当前库存,现登记例出数!; StackTrace:   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 37
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 36
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 231
+【2019/7/28 星期日 下午 3:34:39】Msg:库存不足: 商品编号:12323, 当前库存,现登记例出数!; StackTrace:   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 37
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 36
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 231
+【2019/7/28 星期日 下午 3:34:42】Msg:库存不足: 商品编号:12323, 当前库存,现登记例出数!; StackTrace:   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 37
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 36
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 231
+【2019/8/1 星期四 下午 4:38:48】Msg:库存不足: 商品编号:12323, 当前库存,现登记例出数!; StackTrace:   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 37
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 231
+【2019/8/1 星期四 下午 4:40:24】Msg:库存不足: 商品编号:12323, 当前库存,现登记例出数!; StackTrace:   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 37
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/1 星期四 下午 9:57:21】Msg:库存不足: 商品编号:12323, 当前库存,现登记例出数!; StackTrace:   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 37
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/1 星期四 下午 10:01:29】Msg:There are multiple root elements. Line 1, position 101.; StackTrace:   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 69
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/1 星期四 下午 10:03:33】Msg:There are multiple root elements. Line 1, position 101.; StackTrace:   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 69
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/1 星期四 下午 10:04:09】Msg:There are multiple root elements. Line 1, position 101.; StackTrace:   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 69
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/1 星期四 下午 11:01:33】Msg:Value cannot be null.
+Parameter name: source; StackTrace:   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 75
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/1 星期四 下午 11:20:05】Msg:Additional text encountered after finished reading JSON content: ,. Path '', line 1, position 40.; StackTrace:   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 77
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/1 星期四 下午 11:40:35】Msg:Object reference not set to an instance of an object.; StackTrace:   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 74
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/1 星期四 下午 11:45:05】Msg:Value cannot be null.
+Parameter name: value; StackTrace:   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 92
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/2 星期五 上午 12:01:49】Msg:Unexpected character encountered while parsing value: :. Path '', line 1, position 1.; StackTrace:   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Boolean writeChildren, Boolean writeDateConstructorAsDate, Boolean writeComments)
+   at Newtonsoft.Json.Linq.JTokenWriter.WriteToken(JsonReader reader, Boolean writeChildren, Boolean writeDateConstructorAsDate, Boolean writeComments)
+   at Newtonsoft.Json.JsonWriter.WriteToken(JsonReader reader, Boolean writeChildren)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateJToken(JsonReader reader, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 90
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/2 星期五 上午 12:09:26】Msg:Unexpected character encountered while parsing value: [. Path '', line 1, position 1.; StackTrace:   at Newtonsoft.Json.JsonTextReader.ReadStringValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsString()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 90
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/2 星期五 下午 5:36:01】Msg:A connection was successfully established with the server, but then an error occurred during the login process. (provider: Shared Memory Provider, error: 0 - 管道的另一端上无任何进程。); StackTrace:   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 36
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/2 星期五 下午 5:36:50】Msg:用户 'sa' 登录失败。; StackTrace:   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 36
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/2 星期五 下午 5:46:12】Msg:用户 'sa' 登录失败。; StackTrace:   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 36
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in G:\BaiduNetdiskDownload\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/8 10:06:20】Msg:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server); StackTrace:   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in C:\code\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 36
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/8 10:07:05】Msg:库存不足: 商品编号:12323, 当前库存,现登记例出数!; StackTrace:   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in C:\code\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 38
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/8 10:16:21】Msg:'true' is an unexpected token. The expected token is '"' or '''. Line 3, position 29.; StackTrace:   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   at System.Xml.XmlTextReaderImpl.ThrowUnexpectedToken(String expectedToken1, String expectedToken2)
+   at System.Xml.XmlTextReaderImpl.ParseAttributes()
+   at System.Xml.XmlTextReaderImpl.ParseElement()
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   at System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in C:\code\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 80
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/8 10:18:28】Msg:'true' is an unexpected token. The expected token is '"' or '''. Line 3, position 29.; StackTrace:   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   at System.Xml.XmlTextReaderImpl.ThrowUnexpectedToken(String expectedToken1, String expectedToken2)
+   at System.Xml.XmlTextReaderImpl.ParseAttributes()
+   at System.Xml.XmlTextReaderImpl.ParseElement()
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   at System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in C:\code\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 80
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass5_0.<<get_his_scheduling_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 41
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/27 14:39:18】Msg:The 'reportPdf' start tag on line 6 position 2 does not match the end tag of 'reportName'. Line 6, position 114.; StackTrace:   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   at System.Xml.XmlTextReaderImpl.ThrowTagMismatch(NodeData startTag)
+   at System.Xml.XmlTextReaderImpl.ParseEndElement()
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   at System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at Quote.Service.Providers.HospitalService.ExecutingSql(String name, String strParams) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 80
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass23_0.<<query_report_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 332
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/27 14:39:41】Msg:The best overloaded method match for 'Newtonsoft.Json.JsonConvert.DeserializeObject<System.Collections.Generic.List<DapperTast.Param.QueryReportListDto>>(string)' has some invalid arguments; StackTrace:   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass23_0.<<query_report_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 333
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/27 14:39:43】Msg:The best overloaded method match for 'Newtonsoft.Json.JsonConvert.DeserializeObject<System.Collections.Generic.List<DapperTast.Param.QueryReportListDto>>(string)' has some invalid arguments; StackTrace:   at CallSite.Target(Closure , CallSite , Type , Object )
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass23_0.<<query_report_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 333
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/27 14:40:47】Msg:The best overloaded method match for 'Newtonsoft.Json.JsonConvert.DeserializeObject<System.Collections.Generic.List<DapperTast.Param.QueryReportListDto>>(string)' has some invalid arguments; StackTrace:   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass23_0.<<query_report_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 333
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/27 14:43:47】Msg:The best overloaded method match for 'Newtonsoft.Json.JsonConvert.DeserializeObject<System.Collections.Generic.List<DapperTast.Param.QueryReportListDto>>(string)' has some invalid arguments; StackTrace:   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass23_0.<<query_report_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 333
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/27 14:44:38】Msg:The best overloaded method match for 'Newtonsoft.Json.JsonConvert.DeserializeObject<System.Collections.Generic.List<DapperTast.Param.QueryReportListDto>>(string)' has some invalid arguments; StackTrace:   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at DapperTast.Controllers.Health_Card_To_HisController.<>c__DisplayClass23_0.<<query_report_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 333
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/27 15:52:43】Msg:The target file 'C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\bin\Debug\netcoreapp2.1\pdf' is a directory, not a file.; StackTrace:   at System.IO.FileSystem.CopyFile(String sourceFullPath, String destFullPath, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at Quote.Service.Providers.HospitalService.CopyFolder(String oldUrl, String newUrl) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 217
+   at DapperTast.Controllers.health_card_to_hisController.<>c__DisplayClass23_0.<<query_report_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 333
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/27 15:53:53】Msg:The target file 'C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\bin\Debug\netcoreapp2.1\pdf' is a directory, not a file.; StackTrace:   at System.IO.FileSystem.CopyFile(String sourceFullPath, String destFullPath, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at Quote.Service.Providers.HospitalService.CopyFolder(String oldUrl, String newUrl) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 217
+   at DapperTast.Controllers.health_card_to_hisController.<>c__DisplayClass23_0.<<query_report_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 333
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/27 15:58:39】Msg:The target file 'C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\bin\Debug\netcoreapp2.1\pdf' is a directory, not a file.; StackTrace:   at System.IO.FileSystem.CopyFile(String sourceFullPath, String destFullPath, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at Quote.Service.Providers.HospitalService.CopyFolder(String oldUrl, String newUrl) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\Providers\HospitalService.cs:line 217
+   at DapperTast.Controllers.health_card_to_hisController.<>c__DisplayClass23_0.<<query_report_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 333
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/27 16:23:39】Msg:Could not find file 'C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\bin\Debug\netcoreapp2.1\logs\info-2018-12-18.log'.; StackTrace:   at System.IO.FileSystem.CopyFile(String sourceFullPath, String destFullPath, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at DapperTast.Controllers.health_card_to_hisController.CopyFolder(List`1 urlList) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 418
+   at DapperTast.Controllers.health_card_to_hisController.<>c__DisplayClass23_0.<<query_report_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 334
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/27 16:26:11】Msg:文件:C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\bin\Debug\netcoreapp2.1\logs\info-2018-12-18.log不存在请检查; StackTrace:   at DapperTast.Controllers.health_card_to_hisController.CopyFolder(List`1 urlList) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 414
+   at DapperTast.Controllers.health_card_to_hisController.<>c__DisplayClass23_0.<<query_report_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 334
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233
+【2019/8/27 16:28:20】Msg:C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\bin\Debug\netcoreapp2.1\logs\info-2018-12-18.log   不存在请检查!!!; StackTrace:   at DapperTast.Controllers.health_card_to_hisController.CopyFolder(List`1 urlList) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 414
+   at DapperTast.Controllers.health_card_to_hisController.<>c__DisplayClass23_0.<<query_report_list>b__0>d.MoveNext() in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\DapperTast\Controllers\Health_Card_To_HisController.cs:line 334
+--- End of stack trace from previous location where exception was thrown ---
+   at Quote.AspNetCore.ApiJsonResultEntryExtensions.RunWithTryAsync(ApiJsonResultData jsonResultEntry, Func`2 runMethod) in C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\ApiJsonResultData.cs:line 233

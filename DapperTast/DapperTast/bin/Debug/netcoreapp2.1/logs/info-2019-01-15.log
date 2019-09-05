@@ -1,0 +1,48 @@
+2019-01-15 20:47:10.2101||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Administrator\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. |url: |action: 
+2019-01-15 20:47:12.1628|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/api/values   |url: http://localhost/api/values|action: 
+2019-01-15 20:47:12.3973|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 235.3021ms 500 text/html; charset=utf-8 |url: http://localhost/api/values|action: 
+2019-01-15 20:52:15.9067||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Administrator\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. |url: |action: 
+2019-01-15 20:52:17.7066|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/api/values   |url: http://localhost/api/values|action: 
+2019-01-15 20:57:22.2594||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Administrator\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. |url: |action: 
+2019-01-15 20:57:23.5604|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/api/values   |url: http://localhost/api/values|action: 
+2019-01-15 20:57:36.6158|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 13053.597ms 404  |url: http://localhost/api/values|action: 
+2019-01-15 21:00:53.4011|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/swagger   |url: http://localhost/swagger|action: 
+2019-01-15 21:00:53.4333|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 30.9471ms 301  |url: http://localhost/swagger|action: 
+2019-01-15 21:00:53.4451|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html   |url: http://localhost/swagger/index.html|action: 
+2019-01-15 21:00:53.5879|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 143.8898ms 200 text/html |url: http://localhost/swagger/index.html|action: 
+2019-01-15 21:00:53.6354|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css   |url: http://localhost/swagger/swagger-ui.css|action: 
+2019-01-15 21:00:53.6354|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js   |url: http://localhost/swagger/swagger-ui-bundle.js|action: 
+2019-01-15 21:00:53.6395|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js   |url: http://localhost/swagger/swagger-ui-standalone-preset.js|action: 
+2019-01-15 21:00:53.7445|2|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A' |url: http://localhost/swagger/swagger-ui-standalone-preset.js|action: 
+2019-01-15 21:00:53.7501|2|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A' |url: http://localhost/swagger/swagger-ui-bundle.js|action: 
+2019-01-15 21:00:53.7501|2|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A' |url: http://localhost/swagger/swagger-ui.css|action: 
+2019-01-15 21:00:53.7681|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 120.1913ms 200 application/javascript |url: http://localhost/swagger/swagger-ui-standalone-preset.js|action: 
+2019-01-15 21:00:53.7884|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 122.5177ms 200 application/javascript |url: http://localhost/swagger/swagger-ui-bundle.js|action: 
+2019-01-15 21:00:53.7884|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 143.7131ms 200 text/css |url: http://localhost/swagger/swagger-ui.css|action: 
+2019-01-15 21:09:28.9516||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Administrator\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. |url: |action: 
+2019-01-15 21:09:29.6757|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/api/values   |url: http://localhost/api/values|action: 
+2019-01-15 21:09:29.9118|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 236.7138ms 404  |url: http://localhost/api/values|action: 
+2019-01-15 21:09:37.4157|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/swagger   |url: http://localhost/swagger|action: 
+2019-01-15 21:09:37.4200|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 4.2949ms 301  |url: http://localhost/swagger|action: 
+2019-01-15 21:09:37.4200|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html   |url: http://localhost/swagger/index.html|action: 
+2019-01-15 21:09:37.5249|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 95.5524ms 200 text/html |url: http://localhost/swagger/index.html|action: 
+2019-01-15 21:09:37.8185|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json   |url: http://localhost/swagger/v1/swagger.json|action: 
+2019-01-15 21:09:37.9986|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 180.0223ms 200 application/json;charset=utf-8 |url: http://localhost/swagger/v1/swagger.json|action: 
+2019-01-15 21:13:32.5719||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Administrator\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. |url: |action: 
+2019-01-15 21:13:33.5221|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/api/values   |url: http://localhost/api/values|action: 
+2019-01-15 21:13:33.7665|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 245.015ms 404  |url: http://localhost/api/values|action: 
+2019-01-15 21:13:45.1001|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/swagger   |url: http://localhost/swagger|action: 
+2019-01-15 21:13:45.1001|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 2.3225ms 301  |url: http://localhost/swagger|action: 
+2019-01-15 21:13:45.1147|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html   |url: http://localhost/swagger/index.html|action: 
+2019-01-15 21:13:45.2016|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 86.8326ms 200 text/html |url: http://localhost/swagger/index.html|action: 
+2019-01-15 21:13:45.5021|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json   |url: http://localhost/swagger/v1/swagger.json|action: 
+2019-01-15 21:13:45.6669|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 164.7956ms 200 application/json;charset=utf-8 |url: http://localhost/swagger/v1/swagger.json|action: 
+2019-01-15 21:15:17.8531||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Administrator\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. |url: |action: 
+2019-01-15 21:15:18.8080|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/api/values   |url: http://localhost/api/values|action: 
+2019-01-15 21:15:19.0267|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 220.3235ms 404  |url: http://localhost/api/values|action: 
+2019-01-15 21:15:28.5425|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/swagger   |url: http://localhost/swagger|action: 
+2019-01-15 21:15:28.5505|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 8.0458ms 301  |url: http://localhost/swagger|action: 
+2019-01-15 21:15:28.5505|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html   |url: http://localhost/swagger/index.html|action: 
+2019-01-15 21:15:28.6591|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 101.5973ms 200 text/html |url: http://localhost/swagger/index.html|action: 
+2019-01-15 21:15:29.0101|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json   |url: http://localhost/swagger/v1/swagger.json|action: 
+2019-01-15 21:15:29.2112|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 201.1338ms 200 application/json;charset=utf-8 |url: http://localhost/swagger/v1/swagger.json|action: 

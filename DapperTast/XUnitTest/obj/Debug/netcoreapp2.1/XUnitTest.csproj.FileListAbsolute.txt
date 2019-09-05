@@ -1,0 +1,14 @@
+E:\资料\资料\netcore\dappersNew\DapperTast\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\资料\资料\netcore\dappersNew\DapperTast\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\资料\资料\netcore\dappersNew\DapperTast\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\资料\资料\netcore\dappersNew\DapperTast\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.deps.json
+E:\资料\资料\netcore\dappersNew\DapperTast\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.runtimeconfig.json
+E:\资料\资料\netcore\dappersNew\DapperTast\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.runtimeconfig.dev.json
+E:\资料\资料\netcore\dappersNew\DapperTast\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.dll
+E:\资料\资料\netcore\dappersNew\DapperTast\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.pdb
+E:\资料\资料\netcore\dappersNew\DapperTast\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csprojAssemblyReference.cache
+E:\资料\资料\netcore\dappersNew\DapperTast\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csproj.CoreCompileInputs.cache
+E:\资料\资料\netcore\dappersNew\DapperTast\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.AssemblyInfoInputs.cache
+E:\资料\资料\netcore\dappersNew\DapperTast\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.AssemblyInfo.cs
+E:\资料\资料\netcore\dappersNew\DapperTast\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.dll
+E:\资料\资料\netcore\dappersNew\DapperTast\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.pdb
