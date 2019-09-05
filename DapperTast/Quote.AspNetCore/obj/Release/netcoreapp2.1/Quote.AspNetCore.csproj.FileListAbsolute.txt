@@ -46,3 +46,15 @@ C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\obj\Re
 C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\obj\Release\netcoreapp2.1\Quote.AspNetCore.csproj.CopyComplete
 C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\obj\Release\netcoreapp2.1\Quote.AspNetCore.dll
 C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.AspNetCore\obj\Release\netcoreapp2.1\Quote.AspNetCore.pdb
+C:\code\git\dappersHE\DapperTast\Quote.AspNetCore\bin\Release\netcoreapp2.1\Quote.AspNetCore.deps.json
+C:\code\git\dappersHE\DapperTast\Quote.AspNetCore\bin\Release\netcoreapp2.1\Quote.AspNetCore.dll
+C:\code\git\dappersHE\DapperTast\Quote.AspNetCore\bin\Release\netcoreapp2.1\Quote.AspNetCore.pdb
+C:\code\git\dappersHE\DapperTast\Quote.AspNetCore\bin\Release\netcoreapp2.1\Quote.Core.dll
+C:\code\git\dappersHE\DapperTast\Quote.AspNetCore\bin\Release\netcoreapp2.1\Quote.Core.pdb
+C:\code\git\dappersHE\DapperTast\Quote.AspNetCore\obj\Release\netcoreapp2.1\Quote.AspNetCore.csprojAssemblyReference.cache
+C:\code\git\dappersHE\DapperTast\Quote.AspNetCore\obj\Release\netcoreapp2.1\Quote.AspNetCore.csproj.CoreCompileInputs.cache
+C:\code\git\dappersHE\DapperTast\Quote.AspNetCore\obj\Release\netcoreapp2.1\Quote.AspNetCore.AssemblyInfoInputs.cache
+C:\code\git\dappersHE\DapperTast\Quote.AspNetCore\obj\Release\netcoreapp2.1\Quote.AspNetCore.AssemblyInfo.cs
+C:\code\git\dappersHE\DapperTast\Quote.AspNetCore\obj\Release\netcoreapp2.1\Quote.AspNetCore.csproj.CopyComplete
+C:\code\git\dappersHE\DapperTast\Quote.AspNetCore\obj\Release\netcoreapp2.1\Quote.AspNetCore.dll
+C:\code\git\dappersHE\DapperTast\Quote.AspNetCore\obj\Release\netcoreapp2.1\Quote.AspNetCore.pdb

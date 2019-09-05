@@ -40,3 +40,12 @@ C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\obj\Relea
 C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\obj\Release\netcoreapp2.1\win-x64\Quote.Service.AssemblyInfo.cs
 C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\obj\Release\netcoreapp2.1\win-x64\Quote.Service.dll
 C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Service\obj\Release\netcoreapp2.1\win-x64\Quote.Service.pdb
+C:\code\git\dappersHE\DapperTast\Quote.Service\bin\Release\netcoreapp2.1\win-x64\Quote.Service.deps.json
+C:\code\git\dappersHE\DapperTast\Quote.Service\bin\Release\netcoreapp2.1\win-x64\Quote.Service.dll
+C:\code\git\dappersHE\DapperTast\Quote.Service\bin\Release\netcoreapp2.1\win-x64\Quote.Service.pdb
+C:\code\git\dappersHE\DapperTast\Quote.Service\obj\Release\netcoreapp2.1\win-x64\Quote.Service.csprojAssemblyReference.cache
+C:\code\git\dappersHE\DapperTast\Quote.Service\obj\Release\netcoreapp2.1\win-x64\Quote.Service.csproj.CoreCompileInputs.cache
+C:\code\git\dappersHE\DapperTast\Quote.Service\obj\Release\netcoreapp2.1\win-x64\Quote.Service.AssemblyInfoInputs.cache
+C:\code\git\dappersHE\DapperTast\Quote.Service\obj\Release\netcoreapp2.1\win-x64\Quote.Service.AssemblyInfo.cs
+C:\code\git\dappersHE\DapperTast\Quote.Service\obj\Release\netcoreapp2.1\win-x64\Quote.Service.dll
+C:\code\git\dappersHE\DapperTast\Quote.Service\obj\Release\netcoreapp2.1\win-x64\Quote.Service.pdb

@@ -34,3 +34,12 @@ C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Core\obj\Release\
 C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Core\obj\Release\netcoreapp2.1\Quote.Core.AssemblyInfo.cs
 C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Core\obj\Release\netcoreapp2.1\Quote.Core.dll
 C:\code\dappersHE\dappersHE\dappersHE\dappers\DapperTast\Quote.Core\obj\Release\netcoreapp2.1\Quote.Core.pdb
+C:\code\git\dappersHE\DapperTast\Quote.Core\bin\Release\netcoreapp2.1\Quote.Core.deps.json
+C:\code\git\dappersHE\DapperTast\Quote.Core\bin\Release\netcoreapp2.1\Quote.Core.dll
+C:\code\git\dappersHE\DapperTast\Quote.Core\bin\Release\netcoreapp2.1\Quote.Core.pdb
+C:\code\git\dappersHE\DapperTast\Quote.Core\obj\Release\netcoreapp2.1\Quote.Core.csprojAssemblyReference.cache
+C:\code\git\dappersHE\DapperTast\Quote.Core\obj\Release\netcoreapp2.1\Quote.Core.csproj.CoreCompileInputs.cache
+C:\code\git\dappersHE\DapperTast\Quote.Core\obj\Release\netcoreapp2.1\Quote.Core.AssemblyInfoInputs.cache
+C:\code\git\dappersHE\DapperTast\Quote.Core\obj\Release\netcoreapp2.1\Quote.Core.AssemblyInfo.cs
+C:\code\git\dappersHE\DapperTast\Quote.Core\obj\Release\netcoreapp2.1\Quote.Core.dll
+C:\code\git\dappersHE\DapperTast\Quote.Core\obj\Release\netcoreapp2.1\Quote.Core.pdb
