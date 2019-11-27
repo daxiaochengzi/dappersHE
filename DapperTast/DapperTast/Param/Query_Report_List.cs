@@ -11,8 +11,8 @@ namespace DapperTast.Param
 /// </summary>
     public class Query_Report_List
     {/// <summary>
-        /// 电子健康卡id
-        /// </summary>
+     /// 电子健康卡id
+     /// </summary>
 
         public string EhealthCardId { get; set; }
 

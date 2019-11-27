@@ -351,6 +351,38 @@ namespace DapperTast.Controllers
             });
         }
         #endregion
+        #region  	3.5.2 	获取检查报告列表
+        /// <summary>
+        ///	3.5.2 	获取检查报告列表
+        /// </summary>
+        /// <returns></returns>
+        [HttpPost]
+        public async Task<ApiJsonResultData> get_report_list([FromBody] Get_Report_List param)
+        {
+            return await new ApiJsonResultData(ModelState).RunWithTryAsync(async y =>
+            {
+                
+                string paramXml = XmlHelper.ToXml(param);
+                var data = await HospitalService.ExecutingSql("get_report_list", paramXml);
+                y.Data = data;
+            });
+        }
+        #endregion
+        /// <summary>
+        ///	3.5.3 	根据报告ID获取检查报告
+        /// </summary>
+        /// <returns></returns>
+        [HttpPost]
+        public async Task<ApiJsonResultData> get_report_id([FromBody] Get_Report_List param)
+        {
+            return await new ApiJsonResultData(ModelState).RunWithTryAsync(async y =>
+            {
+
+                string paramXml = XmlHelper.ToXml(param);
+                var data = await HospitalService.ExecutingSql("get_report_id", paramXml);
+                y.Data = data;
+            });
+        }
         /// <summary>
         ///  3.6.1 	消息通知服务
         /// </summary>
