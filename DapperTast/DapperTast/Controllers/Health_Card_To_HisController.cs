@@ -330,23 +330,9 @@ namespace DapperTast.Controllers
         {
             return await new ApiJsonResultData(ModelState).RunWithTryAsync(async y =>
             {
-                //    //192.168.101.109 D:\temp\info-2018-12-18.log
-                //    //string currentDirectory = AppContext.BaseDirectory+ @"logs\info-2018-12-18.log";
-                //    CopyFolder(new List<string>(){ "192.168.101.109 D:\\temp\\info-2018-12-18.log" });
-                //    //HospitalService.CopyFolder(currentDirectory+ @"logs\info-2018-12-18.log", currentDirectory + @"pdf\info-2018-12-18.log");
-                //    string paramXml = XmlHelper.ToXml(param);
-                //    var data = await HospitalService.ExecutingSqlQueryReport("query_report_list", paramXml);
-                //    var  basicResultDto = JsonConvert.DeserializeObject<List<QueryReportListDto>>(data);
-                //    var dataNew = basicResultDto.Select(c => new QueryReportListDto
-                //    {
-                //        ReportDateTime = c.ReportDateTime,
-                //        ReportId = c.ReportId,
-                //        ReportName = c.ReportName,
-                //        ReportPdf = c.ReportPdf != null ? Convert.ToBase64String(System.IO.File.ReadAllBytes(c.ReportPdf)) : null
-                //    });
-                //    y.Data = dataNew;
+                
                 string paramXml = XmlHelper.ToXml(param);
-                var data = await HospitalService.ExecutingSql("hospital_prepay_query", paramXml);
+                var data = await HospitalService.ExecutingSql("query_report_list", paramXml);
                 y.Data = data;
             });
         }

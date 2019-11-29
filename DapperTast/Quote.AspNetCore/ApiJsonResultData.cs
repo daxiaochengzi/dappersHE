@@ -38,12 +38,9 @@ namespace Quote.AspNetCore
 
         #region Properties
 
-        /// <summary>
-        /// Gets or sets a value indicating whether this <see cref="ApiJsonResultData" /> is success.
-        /// </summary>
-        /// <value>
-        ///   <c>true</c> if success; otherwise, <c>false</c>.
-        /// </value>
+       /// <summary>
+       /// 
+       /// </summary>
         [JsonProperty("success")]
         [JsonIgnore]
         public bool Success { get; set; }
