@@ -44,6 +44,12 @@ namespace DapperTast.Param
         [Required(ErrorMessage = "{0}不能为空!!!")]
         public string IdType { get; set; }
         /// <summary>
+        /// 证件号码
+        /// </summary>
+        [Display(Name = "证件号码")]
+        [Required(ErrorMessage = "{0}不能为空!!!")]
+        public string IdNo { get; set; }
+        /// <summary>
         /// HIS报告ID列表
         /// </summary>
         public List<string> ReportIds { get; set; } = null;
