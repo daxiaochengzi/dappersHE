@@ -8,9 +8,9 @@ namespace DapperTast.Param
 {
     public class Get_Report_List
     {/// <summary>
-     /// His挂号排班记录id
+     /// 开始时间
      /// </summary>
-        [Display(Name = "His挂号排班记录id")]
+        [Display(Name = "开始时间")]
         [Required(ErrorMessage = "{0}不能为空!!!")]
         public string StartAt { get; set; }
         /// <summary>

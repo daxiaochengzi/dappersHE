@@ -359,7 +359,7 @@ namespace DapperTast.Controllers
         /// </summary>
         /// <returns></returns>
         [HttpPost]
-        public async Task<ApiJsonResultData> get_report_id([FromBody] Get_Report_List param)
+        public async Task<ApiJsonResultData> get_report_id([FromBody] Get_Report_Id param)
         {
             return await new ApiJsonResultData(ModelState).RunWithTryAsync(async y =>
             {

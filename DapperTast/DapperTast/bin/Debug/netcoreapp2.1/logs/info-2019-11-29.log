@@ -1,0 +1,21 @@
+2019-11-29 14:39:26.7509||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Administrator\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. |url: |action: 
+2019-11-29 14:39:27.6739|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5008/api/values   |url: http://localhost/api/values|action: 
+2019-11-29 14:39:28.3250|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 649.4309ms 404  |url: http://localhost/api/values|action: 
+2019-11-29 14:39:36.0564|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5008/swagger   |url: http://localhost/swagger|action: 
+2019-11-29 14:39:36.0694|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 13.5011ms 301  |url: http://localhost/swagger|action: 
+2019-11-29 14:39:36.0694|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5008/swagger/index.html   |url: http://localhost/swagger/index.html|action: 
+2019-11-29 14:39:36.1964|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 117.4889ms 200 text/html |url: http://localhost/swagger/index.html|action: 
+2019-11-29 14:39:36.2174|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5008/swagger/swagger-ui.css   |url: http://localhost/swagger/swagger-ui.css|action: 
+2019-11-29 14:39:36.2174|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5008/swagger/swagger-ui-bundle.js   |url: http://localhost/swagger/swagger-ui-bundle.js|action: 
+2019-11-29 14:39:36.2174|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5008/swagger/swagger-ui-standalone-preset.js   |url: http://localhost/swagger/swagger-ui-standalone-preset.js|action: 
+2019-11-29 14:39:36.2524|2|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A' |url: http://localhost/swagger/swagger-ui.css|action: 
+2019-11-29 14:39:36.2664|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 49.2649ms 200 text/css |url: http://localhost/swagger/swagger-ui.css|action: 
+2019-11-29 14:39:36.2684|2|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A' |url: http://localhost/swagger/swagger-ui-standalone-preset.js|action: 
+2019-11-29 14:39:36.2684|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 52.8276ms 200 application/javascript |url: http://localhost/swagger/swagger-ui-standalone-preset.js|action: 
+2019-11-29 14:39:36.2684|2|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A' |url: http://localhost/swagger/swagger-ui-bundle.js|action: 
+2019-11-29 14:39:36.2854|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 68.1026ms 200 application/javascript |url: http://localhost/swagger/swagger-ui-bundle.js|action: 
+2019-11-29 14:39:36.7714|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5008/swagger/v1/swagger.json   |url: http://localhost/swagger/v1/swagger.json|action: 
+2019-11-29 14:39:36.8024|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5008/swagger/favicon-32x32.png   |url: http://localhost/swagger/favicon-32x32.png|action: 
+2019-11-29 14:39:36.8024|2|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A' |url: http://localhost/swagger/favicon-32x32.png|action: 
+2019-11-29 14:39:36.8024|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 9.858ms 200 image/png |url: http://localhost/swagger/favicon-32x32.png|action: 
+2019-11-29 14:39:37.0635|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 292.4925ms 200 application/json;charset=utf-8 |url: http://localhost/swagger/v1/swagger.json|action: 

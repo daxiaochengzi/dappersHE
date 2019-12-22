@@ -777,14 +777,19 @@
             
             </summary>
         </member>
+        <member name="P:DapperTast.Param.Query_Report_List.StartAt">
+            <summary>
+            开始时间
+            </summary>
+        </member>
+        <member name="P:DapperTast.Param.Query_Report_List.EndAt">
+            <summary>
+            结束时间
+            </summary>
+        </member>
         <member name="P:DapperTast.Param.Query_Report_List.EhealthCardId">
             <summary>
             电子健康卡id
-            </summary>
-        </member>
-        <member name="P:DapperTast.Param.Query_Report_List.IdNo">
-            <summary>
-            证件号码
             </summary>
         </member>
         <member name="P:DapperTast.Param.Query_Report_List.MindexId">
@@ -795,6 +800,11 @@
         <member name="P:DapperTast.Param.Query_Report_List.IdType">
             <summary>
             证件类别
+            </summary>
+        </member>
+        <member name="P:DapperTast.Param.Query_Report_List.IdNo">
+            <summary>
+            证件号码
             </summary>
         </member>
         <member name="P:DapperTast.Param.Query_Report_List.ReportIds">
