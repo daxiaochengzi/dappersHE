@@ -9,9 +9,11 @@ using System.Threading.Tasks;
 namespace DapperTast
 {
     public class Test
-    {
+    {/// <summary>
+    /// 
+    /// </summary>
         public void Mydemo()
-        {
+        {  
             var con = new SqlConnection(
                       " Data Source=QUBER-PC-SAING\\SQL2012;Initial Catalog=MyDapper;Persist Security Info=True;User ID=sa;Password=123456");
             //插入

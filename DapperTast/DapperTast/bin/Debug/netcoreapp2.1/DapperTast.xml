@@ -201,7 +201,7 @@
             </summary>
             <returns></returns>
         </member>
-        <member name="M:DapperTast.Controllers.health_card_to_hisController.get_report_id(DapperTast.Param.Get_Report_List)">
+        <member name="M:DapperTast.Controllers.health_card_to_hisController.get_report_id(DapperTast.Param.Get_Report_Id)">
             <summary>
             3.5.3 	根据报告ID获取检查报告
             </summary>
@@ -354,7 +354,7 @@
         </member>
         <member name="P:DapperTast.Param.Get_Report_List.StartAt">
             <summary>
-            His挂号排班记录id
+            开始时间
             </summary>
         </member>
         <member name="P:DapperTast.Param.Get_Report_List.EndAt">
@@ -902,6 +902,11 @@
             </summary>
             <param name="operation"></param>
             <param name="context"></param>
+        </member>
+        <member name="M:DapperTast.Test.Mydemo">
+            <summary>
+            
+            </summary>
         </member>
     </members>
 </doc>
